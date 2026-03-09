@@ -23,7 +23,7 @@ coverage/
 .env.*
 !.env.example
 
-# OS / editor noise
+# OS / editor noise 
 .DS_Store
 Thumbs.db
 .vscode-test/
